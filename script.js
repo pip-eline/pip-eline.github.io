@@ -120,12 +120,12 @@ var data = [
         id: `a-rst-nummer`,
         nederlands: {
             titel: `Trek een RST-NUMMER`,
-            beschrijving: `Er wordt nog een link gepost waar je een nummer kan trekken. Dat nummer is jouw arrestanten-nummer of RST ("arrestee")-nummer. Doe dit altijd, ook als je low-risk gaat.`,
+            beschrijving: `Je kunt <a href="https://0527.pidgeyxr.repl.co/">hier</a> een RST nummer opvragen. Dat nummer is jouw arrestanten-nummer of RST ("arrestee")-nummer. Doe dit altijd, ook als je low-risk gaat.`,
             toelichting: `Het RST-nummmer dat je hebt getrokken moet je in het RST formulier invullen. Trek maar 1 keer een nummer en onthoud deze goed!`,
         },
         engels: {
             titel: `Get and RST-NUMBER`,
-            beschrijving: `A link will be shared where you can get an RST-NUMBER. This is your individual arrestee number, remember it carefully and use it in the RST form. Always get one, also if you're low-risk.`,
+            beschrijving: `You can draw a RST number <a href="https://0527.pidgeyxr.repl.co/">here</a>. This is your individual arrestee number, remember it carefully and use it in the RST form. Always get one, also if you're low-risk.`,
             toelichting: `The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information afterwards. `,
         }
     },
@@ -133,13 +133,13 @@ var data = [
         id: `a-rst-form`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
-            beschrijving: `In de algemene briefing zal er een link worden gedeeld met het arrestanten-formulier. Vul deze zo snel mogelijk in! Deze informatie wordt ook gebruikt om je helpen en te zorgen dat iedereen veilig blijft`,
-            toelichting: `Je RST-nummer zorgt er voor dat arrestee-support jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen.`,
+            beschrijving: `Het RST formulier is <a href="https://xrb.link/x79SQU006Fl">hier te vinden</a>. Vul deze zo snel mogelijk in! Deze informatie wordt ook gebruikt om je helpen en te zorgen dat iedereen veilig blijft`,
+            toelichting: `Je RST-nummer zorgt er voor dat arrestee-support jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen. Alle RST informatie is <a href="https://xrb.link/yP3yN6">hier te vinden</a>`,
         },
         engels: {
             titel: `Fill in the RST-form!`,
-            beschrijving: `In the general briefing and in the broadcast channel the RST form will be shared. Submit this form as soon as you can. This information is used to keep you secure and safe.`,
-            toelichting: `The rst information is used to trace you during the action. In this way RST support knows if people are still being detained. RST support is working very hard to get you out and support you!`,
+            beschrijving: `You can find the RST-form <a href="https://xrb.link/x79SQU006Fl">here</a>. Submit this form as soon as you can. This information is used to keep you secure and safe.`,
+            toelichting: `The rst information is used to trace you during the action. In this way RST support knows if people are still being detained. RST support is working very hard to get you out and support you! All RST information can be checked <a href="https://xrb.link/yP3yN6">here</a>`,
         }
     },
     {
@@ -159,13 +159,13 @@ var data = [
         id: `a-plan-treinreis`,
         nederlands: {
             titel: `Plan je (TREIN)REIS`,
-            beschrijving: `Een reisadvies volgt.`,
-            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes.`,
+            beschrijving: `Neem een trein die op tijd is, wij raden de trein vanuit Utrecht Centraal om 9:58 of 10:28 aan. Je bent dan ruim op tijd in Den Haag, probeer er een fijne en rustige ochtend van te maken`,
+            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes. Onze verzamellocatie zal gedeeld worden in de vingerbriefing`,
         },
         engels: {
             titel: `Plan your JOURNEY`,
-            beschrijving: `Most fingers will share some travel advice`,
-            toelichting: `Some delays might happen with public transport, take those into account! Try to travel in small groups.`,
+            beschrijving: `Take a early train, we recommend the train that leaves from Utrecht Centraal at 9:58 or 10:28. That way, you will arrive on time in The Hague`,
+            toelichting: `Some delays might happen with public transport, take those into account! Try to travel in small groups. Our meeting location will be shared in the finger briefing`,
         }
     },
     {
