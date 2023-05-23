@@ -151,7 +151,7 @@ var data = [
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list will be shared during the general briefing. <a href="https://cloud.extinctionrebellion.nl/index.php/s/q7aNEgnGcZyo52Q">Here is a link to the general packing list</a>`,
+            beschrijving: `A packing list will be shared during the general briefing. <a href="paklijst NL-EN mei.pdf">Here is a link to the general packing list</a>`,
             toelichting: `Make sure you at least have enough warm clothing, food and water to support yourself for the day. Don't take any alcohol, drugs or things that are very precious to you.`,
         }
     },
