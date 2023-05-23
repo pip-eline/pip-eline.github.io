@@ -146,7 +146,7 @@ var data = [
         id: `a-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="https://cloud.extinctionrebellion.nl/index.php/s/q7aNEgnGcZyo52Q">Maar hier is een link naar een algemene paklijst.</a> `,
+            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="paklijst NL-EN mei.pdf">Maar hier is een link naar een algemene paklijst.</a> `,
             toelichting: `Denk in elk geval aan: warme kleren, eten, drinken, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
