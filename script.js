@@ -182,6 +182,32 @@ var data = [
         }
     },
     {
+        id: `a-rst-during-action`,
+        nederlands: {
+            titel: `Zo help je RST support tijdens de ACTIE`,
+            beschrijving: `Zorg dat je de instructies hieronder duidelijk hebt!`,
+            toelichting: `
+Stuur de RST-liasion (Ernst) een DM in Signal:</br>
+-	Als je niet naar de actie komt: </br><b>RST-nr CLEAR</b></br>
+-	Als je de actie verlaat zonder gearresteerd te zijn: </br><b>RST-nr CLEAR</b></br>
+-	Als je gearresteerd bent en anoniem gaat: <br><b>RST-nr IN A</b></br>
+-	Als je gearresteerd ben zonder anoniem te gaan: </br><b>RST-nr IN</b></br>
+</br>
+Als ik je bericht is gelezen krijg je het bericht OK. `,
+        },
+        engels: {
+            titel: `This is how you will help RST support during the ACTION`,
+            beschrijving: `Make sure you know what to do, follow the instructions below.`,
+            toelichting: `RST procedure during on the day of the action </br>
+Message the RST liason (@Ernst RST ) via a DM in Signal: </br>
+-	If you cannot make it to the action for whatever reason: </br><b>RST-nr CLEAR</b></br>
+-	If you leave the action without being arrested: </br><b>RST-nr CLEAR</b></br>
+-	If you have been arrested and you will stay anonymously: <br><b>RST-nr IN A</b></br>  
+-	If you have been arrested and you will identify yourself : </br><b>RST-nr IN</b></br>
+After your DM is read you will get a message: OK. `,
+        }
+    },
+    {
         id: `a-zen`,
         nederlands: {
             titel: `Je bent er KLAAR voor!`,
