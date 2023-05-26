@@ -61,13 +61,13 @@ html, body, p {
     transition-property: max-height;
     transition-duration: 0.2s;
     
-    max-height: 10rem;
+    /*max-height: 10rem;*/
 
     transition-delay: 0.5s;
 }
 
 .hidden .inklapbaar {
-    max-height: 0rem;
+    /*max-height: 0rem;*/
     transition-delay: 0s;
 }
 
