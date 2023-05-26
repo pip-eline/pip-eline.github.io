@@ -21,7 +21,7 @@ var data = [
         },
         engels: {
             titel: `Join the FINGER GROUP`,
-            beschrijving: `It is yourt favorite Pinky signal-group that you probably are in already. If not, please quickly fill in <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">this form</a> and join a finger!`,
+            beschrijving: `It is your favorite Pinky signal-group that you probably are in already. If not, please quickly fill in <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">this form</a> and join a finger!`,
             toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.`,
         }
     },
@@ -186,12 +186,12 @@ var data = [
         nederlands: {
             titel: `Je bent er KLAAR voor!`,
             beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden. Misschien vind je het spannend. Maar het wordt ook heel gaaf.`,
-            toelichting: `Tot snel :)`,
+            toelichting: `Tot snel :). <a href="All info Utrecht Pinky 27th of may.pdf">Een samenvatting van alle belangrijke informatie is hier te vinden</>`,
         },
         engels: {
             titel: `You are READY to go!`,
             beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support everyday. Try to also have fun!`,
-            toelichting: `We'll see you soon!`,
+            toelichting: `We'll see you soon! <a href="All info Utrecht Pinky 27th of may.pdf">A summary of all important info is here</>`,
         }
     },
 ]
