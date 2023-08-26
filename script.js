@@ -146,12 +146,12 @@ var data = [
         id: `a-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="paklijst NL-EN mei.pdf">Maar hier is een link naar een algemene paklijst.</a> `,
+            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="more/paklijst_nl_en_mei.pdf">Maar hier is een link naar een algemene paklijst.</a> `,
             toelichting: `Denk in elk geval aan: warme kleren, eten, drinken, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list will be shared during the general briefing. <a href="paklijst NL-EN mei.pdf">Here is a link to the general packing list</a>`,
+            beschrijving: `A packing list will be shared during the general briefing. <a href="more/paklijst_nl_en_mei.pdf">Here is a link to the general packing list</a>`,
             toelichting: `Make sure you at least have enough warm clothing, food and water to support yourself for the day. Don't take any alcohol, drugs or things that are very precious to you.`,
         }
     },
@@ -212,12 +212,12 @@ After your DM is read you will get a message: OK. `,
         nederlands: {
             titel: `Je bent er KLAAR voor!`,
             beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden. Misschien vind je het spannend. Maar het wordt ook heel gaaf.`,
-            toelichting: `Tot snel :). <a href="All info Utrecht Pinky 27th of may.pdf">Een samenvatting van alle belangrijke informatie is hier te vinden</>`,
+            toelichting: `Tot snel :). <a href="more/all_info_utrecht_pinky_27th_of_may.pdf">Een samenvatting van alle belangrijke informatie is hier te vinden</>`,
         },
         engels: {
             titel: `You are READY to go!`,
             beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support everyday. Try to also have fun!`,
-            toelichting: `We'll see you soon! <a href="All info Utrecht Pinky 27th of may.pdf">A summary of all important info is here</>`,
+            toelichting: `We'll see you soon! <a href="more/all_info_utrecht_pinky_27th_of_may.pdf">A summary of all important info is here</>`,
         }
     },
 ]
