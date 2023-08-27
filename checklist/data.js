@@ -17,12 +17,12 @@ var data = [
         nederlands: {
             titel: `Vul het AANMELDFORMULIER in`,
             beschrijving: `Het <a href="https://extinctionrebellion.nl/a12aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groepen wordt ingedeeld, zowel voor de datum van 9 september als de dagen daarna.`,
-            toelichting: `In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
+            toelichting: `Je kan het formulier later nog aanpassen als je op meer/andere dagen komt. In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
         },
         engels: {
             titel: `Fill in the REGISTRATION FORM`,
             beschrijving: `The <a href="https://extinctionrebellion.nl/a12aanmelden">registration form</a> makes sure you are assigned to the right groups, both for the 9th of September, as well as after.`,
-            toelichting: `In the form you can indicate preferences for specific roles, like wellbeing.`,
+            toelichting: `You can edit your form at a later for different/additional dates. In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
     {
@@ -97,7 +97,7 @@ var data = [
         nederlands: {
             titel: `Bepaal: ANONIEM of niet?`,
             beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. Voor meer information, vraag de mede-rebellen of de vingercoordinator in je vingergroep.`,
-            toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jou naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
+            toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jouw naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
         },
         engels: {
             titel: `Commit: HIGH RISK or LOW RISK`,
@@ -109,12 +109,12 @@ var data = [
         id: `b-algemene-briefing`,
         nederlands: {
             titel: `Volg de ALGEMENE BRIEFING`,
-            beschrijving: `Dit is een online zoom-meeting en duurt een uur.<br/><b>Engels: di 5 sept. 20:30.<br/>NL: wo 6 sept. 20:30.</b><br/>Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
+            beschrijving: `Dit is een online meeting en duurt een uur.<br/><b>Engels: di 5 sept. 20:30.<br/>NL: wo 6 sept. 20:30.</b><br/>Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
             toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen. Wel kan je deze in je vingergroep vragen.<br/><br/>TOEVOEGING: Voor data ná 9 september zijn er steeds briefings op de avond ervóór.`,
         },
         engels: {
             titel: `Follow the GENERAL BRIEFINGS`,
-            beschrijving: `This is an online zoom-meeting which will take an hour.<br/><b>English: Tue Sept. 5, 20:30.<br/>Dutch: Wed Sept. 6, 20:30.</b><br/>A zoom link will be shared in the <em>general broadcast</em>.`,
+            beschrijving: `This is an online meeting which will take an hour.<br/><b>English: Tue Sept. 5, 20:30.<br/>Dutch: Wed Sept. 6, 20:30.</b><br/>A zoom link will be shared in the <em>general broadcast</em>.`,
             toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.<br/><br/>ADDENDUM: For dates after September 9th, briefings will be held the evening prior.`,
         }
     },
@@ -135,13 +135,13 @@ var data = [
         id: `b-rst-nummer`,
         nederlands: {
             titel: `Trek een RST-NUMMER`,
-            beschrijving: `Trek je RST-nummer. Een link wordt hier later gedeeld ⌛️. Dat nummer is jouw arrestanten-nummer of RST ("arrestee")-nummer. Doe dit altijd, ook als je low-risk gaat.`,
-            toelichting: `Het RST-nummmer dat je hebt getrokken moet je in het RST formulier invullen. Trek maar 1 keer een nummer en onthoud deze goed!`,
+            beschrijving: `Trek je RST-nummer. Doe dit altijd, ook als je low-risk gaat. De link waarmee je dat doet, wordt hier later gedeeld ⌛️.`,
+            toelichting: `Trek maar 1x een nummer en onthoud deze goed! Dit nummer blijft geldig voor alle dagen van de permanente blokkade!<br/><br/>Het RST-nummer is de anonieme koppeling tussen jou en jouw gegevens. Alleen RST support weet wie er achter elk nummer zit, en zal de informatie na de actie verwijderen.`,
         },
         engels: {
             titel: `Get and RST-NUMBER`,
-            beschrijving: `Draw an RST-number. A link will be shared here later ⌛️. This is your individual arrestee number, remember it carefully and use it in the RST form. Always get one, also if you're low-risk.`,
-            toelichting: `The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information afterwards. `,
+            beschrijving: `Draw an RST-number. Do this always, also if you're going low risk. The link with which you do this will be shared here later ⌛️.`,
+            toelichting: `Draw your number only once and remember it well! This number remains valid for all days of the permanent blockade!<br/><br/>The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information after the action.`,
         }
     },
         {
