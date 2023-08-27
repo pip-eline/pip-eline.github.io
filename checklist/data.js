@@ -25,6 +25,19 @@ var data = [
             toelichting: `You can edit your form at a later for different/additional dates. In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
+        {
+        id: `b-actietraining`,
+        nederlands: {
+            titel: `Volg een ACTIETRAINING`,
+            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
+            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel nog meedoen aan de <a href="https://t.me/A12supporters">support demo</a>.`,
+        },
+        engels: {
+            titel: `Do an ACTION TRAINING`,
+            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Here is an overview</a> of all the trainings being organised.`,
+            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still join the <a href="https://t.me/A12supporters">support demo</a>.`,
+        }
+    },
     {
         id: `b-vingergroep`,
         nederlands: {
@@ -38,9 +51,7 @@ var data = [
             toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.<br/><br/>ADDENDUM: Because this action lasts multiple days, you may be part of multiple fingers for different dates.`,
         }
     },
-    // --------
-
-        {
+    {
         id: `b-actieconsensus`,
         nederlands: {
             titel: `Lees de ACTIECONSENSUS`,
@@ -51,19 +62,6 @@ var data = [
             titel: `Read the ACTION CONSESUS`,
             beschrijving: `This is very important. Read the action consensus carefully. If you don't agree, DON'T JOIN. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">You can read it here</a>`,
             toelichting: `The Action Consensus contains all the conditions we agreed upon as Extinction Rebellion, including non-violence.<br/>If you're a more experienced rebel, feel free to kindly point it out when you see other rebels going against the action consensus.`,
-        }
-    },
-    {
-        id: `b-actietraining`,
-        nederlands: {
-            titel: `Volg een ACTIETRAINING`,
-            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
-            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel nog meedoen aan de <a href="https://t.me/A12supporters">support demo</a>.`,
-        },
-        engels: {
-            titel: `Do an ACTION TRAINING`,
-            beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Here is an overview</a> of all the trainings being organised.`,
-            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still join the <a href="https://t.me/A12supporters">support demo</a>.`,
         }
     },
     {
@@ -96,12 +94,12 @@ var data = [
         id: `b-anonimiteit`,
         nederlands: {
             titel: `Bepaal: ANONIEM of niet?`,
-            beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. Voor meer information, vraag de mede-rebellen of de vingercoordinator in je vingergroep.`,
+            beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. Voor meer information, vraag de mede-rebellen of de vingercoordinator in je vingergroep. <a href="https://cloud.extinctionrebellion.nl/index.php/s/S6kdyF5Nyt8xABo">Hier is ook een document met meer informatie</a>`,
             toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jouw naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
         },
         engels: {
-            titel: `Commit: HIGH RISK or LOW RISK`,
-            beschrijving: `There are various pros and cons for anonymity, so inform yourself well. For more information, ask other rebels or the finger coordinator in your finger group.`,
+            titel: `Consider: Will I go ANONYMOUS?`,
+            beschrijving: `There are various pros and cons for anonymity, so inform yourself well. For more information, ask other rebels or the finger coordinator in your finger group. <a href="https://cloud.extinctionrebellion.nl/index.php/s/S6kdyF5Nyt8xABo">Here is a document with more information</a>`,
             toelichting: `If you go anonymous, don't bring any stuff with your name on it. That also means no debit card or named OV card.`,
         }
     },
