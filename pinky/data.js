@@ -1,20 +1,4 @@
 var data = [
-
-    {
-        id: `b-pinky-todo`,
-        nederlands: {
-            titel: `In AANBOUW`,
-            beschrijving: `Hier wordt nog aan gewerkt.`,
-            toelichting: `Nog even geduld!`,
-        },
-        engels: {
-            titel: `Under CONSTRUCTION`,
-            beschrijving: `This is being worked on.`,
-            toelichting: `Please wait for a bit!`,
-        }
-    },
-    
-    /*
     {
         id: `b-algemene-broadcast`,
         nederlands: {
@@ -29,213 +13,198 @@ var data = [
         }
     },
     {
-        id: `a-vingergroep`,
+        id: `b-aanmeldformulier`,
         nederlands: {
-            titel: `Ga in de VINGERGROEP`,
-            beschrijving: `Dat is je favoriete pinky signal groep waar je als het goed is al in zit. Als dat niet zo is, vul dan snel <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">dit formulier</a> in!`,
-            toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.`,
+            titel: `Vul het AANMELDFORMULIER in`,
+            beschrijving: `Het <a href="https://extinctionrebellion.nl/a12aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groepen wordt ingedeeld, zowel voor de datum van 9 september als de dagen daarna.`,
+            toelichting: `Je kan het formulier later nog aanpassen als je op meer/andere dagen komt. In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
         },
         engels: {
-            titel: `Join the FINGER GROUP`,
-            beschrijving: `It is your favorite Pinky signal-group that you probably are in already. If not, please quickly fill in <a href="https://cryptpad.organise.earth/form/#/2/form/view/B7RPn5C8rcNiXVlWx58yvbsU0c2Li7ZukhOyuGpre88/">this form</a> and join a finger!`,
-            toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.`,
+            titel: `Fill in the REGISTRATION FORM`,
+            beschrijving: `The <a href="https://extinctionrebellion.nl/a12aanmelden">registration form</a> makes sure you are assigned to the right groups, both for the 9th of September, as well as after.`,
+            toelichting: `You can edit your form at a later for different/additional dates. In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
         {
-        id: `a-actieconsensus`,
-        nederlands: {
-            titel: `Lees de ACTIECONSENSUS`,
-            beschrijving: `Dit is heel belangrijk. Lees de actie consessus zorgvuldig. Als je het ergens niet mee eens ben, GA DAN NIET MEE. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">Je kunt het hier lezen.</a>`,
-            toelichting: `De actie consensus bevat de basis van alle voorwaarden die we hebben afgesproken als Extinction Rebellion. `,
-        },
-        engels: {
-            titel: `Read the ACTION CONSESUS`,
-            beschrijving: `This is very important. Read the action consensus carefully. If you don't agree, DON'T JOIN. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">You can read it here</a>`,
-            toelichting: `The Action Consensus contains all the conditions we agreed upon as Extinction Rebellion.`,
-        }
-    },
-    {
-        id: `a-actietraining`,
+        id: `b-actietraining`,
         nederlands: {
             titel: `Volg een ACTIETRAINING`,
             beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
-            toelichting: `Dit heet ook wel een "non violent direct action training". Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk.`,
+            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel nog meedoen aan de <a href="https://t.me/A12supporters">support demo</a>.`,
         },
         engels: {
             titel: `Do an ACTION TRAINING`,
             beschrijving: `<a href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Here is an overview</a> of all the trainings being organised.`,
-            toelichting: `This is also called a "Non Violent Direct Action training". If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important and you shouldn't join if you haven't participated in one.`,
+            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still join the <a href="https://t.me/A12supporters">support demo</a>.`,
         }
     },
     {
-        id: `a-legal-handout`,
+        id: `b-vingergroep`,
+        nederlands: {
+            titel: `Ga in de VINGERGROEP`,
+            beschrijving: `Nadat je het formulier hebt ingevuld, wordt je ingedeeld bij een telegram- of signalgroep voor jouw vinger.`,
+            toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.<br/><br/>TOEVOEGING: Omdat deze actie meerdere dagen duurt, kan het zijn dat je lid bent van meerdere vingers voor verschillende data.`,
+        },
+        engels: {
+            titel: `Join the FINGER GROUP`,
+            beschrijving: `After you have filled out the form, you will be invited to a telegram or signal group for your specific finger.`,
+            toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.<br/><br/>ADDENDUM: Because this action lasts multiple days, you may be part of multiple fingers for different dates.`,
+        }
+    },
+    {
+        id: `b-actieconsensus`,
+        nederlands: {
+            titel: `Lees de ACTIECONSENSUS`,
+            beschrijving: `Dit is heel belangrijk. Lees de actie consensus zorgvuldig. Als je het ergens niet mee eens ben, GA DAN NIET MEE. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">Je kunt het hier lezen.</a>`,
+            toelichting: `De actie consensusbevat de basis van alle voorwaarden die we hebben afgesproken als Extinction Rebellion, waaronder geweldloosheid.<br/>Ben je al een meer ervaren rebel? Spreek andere rebellen gerust vriendelijk aan als je ziet dat ze de actieconsensus niet volgen.`,
+        },
+        engels: {
+            titel: `Read the ACTION CONSESUS`,
+            beschrijving: `This is very important. Read the action consensus carefully. If you don't agree, DON'T JOIN. <a href="https://cloud.extinctionrebellion.nl/index.php/s/4WWr9DeXaQamSCJ">You can read it here</a>`,
+            toelichting: `The Action Consensus contains all the conditions we agreed upon as Extinction Rebellion, including non-violence.<br/>If you're a more experienced rebel, feel free to kindly point it out when you see other rebels going against the action consensus.`,
+        }
+    },
+    {
+        id: `b-legal-handout`,
         nederlands: {
             titel: `Lees de LEGAL HANDHOUT`,
-            beschrijving: `De legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">staat hier</a>.`,
+            beschrijving: `De legal handout <!--a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">staat hier</a--> wordt hier later nog gedeeld ⌛️.`,
             toelichting: `Hierin staan antwoorden op vragen zoals: Wat zijn de legale consequenties? Wanneer bel ik een advocaat? Betekent dit iets voor mijn strafblad?`,
         },
         engels: {
             titel: `Read the LEGAL HANDOUT`,
-            beschrijving: `The legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">can be read here</a>.`,
+            beschrijving: `The legal handout <!--a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">can be read here</a--> will be available here later ⌛️.`,
             toelichting: `This handout answers questions like: What are the legal consequenses? When do I call a laywer?`,
         }
     },
     {
-        id: `a-risico-niveau`,
+        id: `b-risico-niveau`,
         nederlands: {
             titel: `Bepaal: HIGH RISK of LOW RISK`,
             beschrijving: `Twijfel je? Bespreek de voor- en nadelen met anderen.`,
-            toelichting: `Het is prettig om een "Plan A" te hebben. Zodat je weet wat je wil, ook in hectische situaties.<br/>Bij low risk zeg je: "ik ga weg als de politie vordert". De kans dat je gearresteerd wordt, is dan heel klein.`,
+            toelichting: `Het is prettig om een "Plan A" te hebben. Zodat je weet wat je wil, ook in stressvolle/hectische situaties.<br/>Bij low risk zeg je: "ik ga weg als de politie vordert". De kans dat je gearresteerd wordt, is dan heel klein.`,
         },
         engels: {
             titel: `Commit: HIGH RISK or LOW RISK`,
-            beschrijving: `You can discuss this with others if you're still on the fence. If you don't know what this means, ask your finger!`,
-            toelichting: `We always recommend you have a clear plan. If you make that decision early, you won't be confronted by it in a stressful and hectic situation.`,
+            beschrijving: `Still on the fence? Discuss the pros and cons with others.`,
+            toelichting: `We always recommend you have a clear "Plan A". If you make that decision early, you'll know what to do in stressful/hectic situations.<br/>Low risk means: "I will leave when the police ask me to". The chance of arrest be very small in that case.`,
         }
     },
     {
-        id: `a-anonimiteit`,
+        id: `b-anonimiteit`,
         nederlands: {
             titel: `Bepaal: ANONIEM of niet?`,
-            beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. Voor meer information, vraag je mede rebellen en je vinger coordinator in je vinger.`,
-            toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jou naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
+            beschrijving: `Er zijn diverse voor- en nadelen dus laat je vooral goed informeren. Voor meer information, vraag de mede-rebellen of de vingercoordinator in je vingergroep. <a href="https://cloud.extinctionrebellion.nl/index.php/s/S6kdyF5Nyt8xABo">Hier is ook een document met meer informatie</a>`,
+            toelichting: `Als je anoniem gaat, neem dan ook geen spullen mee met jouw naam er op. Dus ook geen bankpas of OV-chipkaart op naam.`,
         },
         engels: {
-            titel: `Commit: HIGH RISK or LOW RISK`,
-            beschrijving: `There are various pros and cons for anonymity, so inform yourself well. For more information, ask the other rebels and your finger coordinator in your finger group.`,
-            toelichting: `If you go anonymous, don't bring any stuff with your name on it. That also means no banking or OV cards.`,
+            titel: `Consider: Will I go ANONYMOUS?`,
+            beschrijving: `There are various pros and cons for anonymity, so inform yourself well. For more information, ask other rebels or the finger coordinator in your finger group. <a href="https://cloud.extinctionrebellion.nl/index.php/s/S6kdyF5Nyt8xABo">Here is a document with more information</a>`,
+            toelichting: `If you go anonymous, don't bring any stuff with your name on it. That also means no debit card or named OV card.`,
         }
     },
     {
-        id: `a-algemene-briefing`,
+        id: `b-algemene-briefing`,
         nederlands: {
             titel: `Volg de ALGEMENE BRIEFING`,
-            beschrijving: `Dit is een online zoom-meeting en duurt een uur.<br/>Engels: di 23 mei 20:30. Nederlands: wo 24 mei 20:30. Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
-            toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen.`,
+            beschrijving: `Dit is een online meeting en duurt een uur.<br/><b>Engels: di 5 sept. 20:30.<br/>NL: wo 6 sept. 20:30.</b><br/>Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
+            toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen. Wel kan je deze in je vingergroep vragen.<br/><br/>TOEVOEGING: Voor data ná 9 september zijn er steeds briefings op de avond ervóór.`,
         },
         engels: {
             titel: `Follow the GENERAL BRIEFINGS`,
-            beschrijving: `There will be a general zoom-meeting which will take about an hour.<br/><b>The English briefing is 23rd of may at 20:30</b>.<br/>A zoom link will be shared in the broadcast channel`,
-            toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.`,
+            beschrijving: `This is an online meeting which will take an hour.<br/><b>English: Tue Sept. 5, 20:30.<br/>Dutch: Wed Sept. 6, 20:30.</b><br/>A zoom link will be shared in the <em>general broadcast</em>.`,
+            toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.<br/><br/>ADDENDUM: For dates after September 9th, briefings will be held the evening prior.`,
         }
     },
     {
-        id: `a-vingerbriefing`,
+        id: `b-vingerbriefing`,
         nederlands: {
             titel: `Volg de VINGERBRIEFING`,
-            beschrijving: `In de signal groep van je vinger wordt er gedeeld of er ook nog een aparte vinger briefing zal worden gehouden. Houd de groep in de gaten en doe hieraan mee!`,
-            toelichting: `In deze briefing bespreken we het plan voor onze vinger, waaronder de verzamellocatie en aanlooproute. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
+            beschrijving: `De vingerbriefing vind plaats op Donderdag 7 september om 20:30. Mocht je niet op deze datum kunnen, stuur dan een bericht naar Tim of Barend en dan regelen we een extra sessie.`,
+            toelichting: `Hier hoor je belangrijke informatie zoals de verzamellocatie en aanlooproute voor jouw vinger. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
         },
         engels: {
             titel: `Join the FINGER BRIEFING`,
-            beschrijving: `In the signal group of your finger, the date and time of the finger briefing will be shared. Please join this briefing for your specific meeting location and more information.`,
-            toelichting: `In this briefing more specific information about your finger and where to meet will be shared. Also, this is place to get a buddy for the action and there is time for questions`,
+            beschrijving: `There will be a briefing on Thursday September the 7th, at 20:30. If you're unable to attend, let Barend or Tim know, and we'll plan something else.`,
+            toelichting: `This is where you will hear important information such as the meeting point and route of approach. In addition, you can ask questions and there will still be time to make buddies.`,
         }
     },
     {
-        id: `a-rst-nummer`,
+        id: `b-rst-nummer`,
         nederlands: {
             titel: `Trek een RST-NUMMER`,
-            beschrijving: `Je kunt <a href="https://0527.pidgeyxr.repl.co/">hier</a> een RST nummer opvragen. Dat nummer is jouw arrestanten-nummer of RST ("arrestee")-nummer. Doe dit altijd, ook als je low-risk gaat.`,
-            toelichting: `Het RST-nummmer dat je hebt getrokken moet je in het RST formulier invullen. Trek maar 1 keer een nummer en onthoud deze goed!`,
+            beschrijving: `Trek je RST-nummer. Doe dit altijd, ook als je low-risk gaat. De link waarmee je dat doet, wordt hier later gedeeld ⌛️.`,
+            toelichting: `Trek maar 1x een nummer en onthoud deze goed! Dit nummer blijft geldig voor alle dagen van de permanente blokkade!<br/><br/>Het RST-nummer is de anonieme koppeling tussen jou en jouw gegevens. Alleen RST support weet wie er achter elk nummer zit, en zal de informatie na de actie verwijderen.`,
         },
         engels: {
             titel: `Get and RST-NUMBER`,
-            beschrijving: `You can draw a RST number <a href="https://0527.pidgeyxr.repl.co/">here</a>. This is your individual arrestee number, remember it carefully and use it in the RST form. Always get one, also if you're low-risk.`,
-            toelichting: `The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information afterwards. `,
+            beschrijving: `Draw an RST-number. Do this always, also if you're going low risk. The link with which you do this will be shared here later ⌛️.`,
+            toelichting: `Draw your number only once and remember it well! This number remains valid for all days of the permanent blockade!<br/><br/>The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information after the action.`,
         }
     },
         {
-        id: `a-rst-form`,
+        id: `b-rst-form`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
-            beschrijving: `Het RST formulier is <a href="https://xrb.link/x79SQU006Fl">hier te vinden</a>. Vul deze zo snel mogelijk in! Deze informatie wordt ook gebruikt om je helpen en te zorgen dat iedereen veilig blijft`,
-            toelichting: `Je RST-nummer zorgt er voor dat arrestee-support jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen. Alle RST informatie is <a href="https://xrb.link/yP3yN6">hier te vinden</a>`,
+            beschrijving: `Het RST formulier wordt later gedeeld ⌛️.`,
+            toelichting: `Je RST-nummer zorgt er voor dat arrestee-support (RSTS) jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen.`,
         },
         engels: {
             titel: `Fill in the RST-form!`,
-            beschrijving: `You can find the RST-form <a href="https://xrb.link/x79SQU006Fl">here</a>. Submit this form as soon as you can. This information is used to keep you secure and safe.`,
-            toelichting: `The rst information is used to trace you during the action. In this way RST support knows if people are still being detained. RST support is working very hard to get you out and support you! All RST information can be checked <a href="https://xrb.link/yP3yN6">here</a>`,
+            beschrijving: `You can find the RST-form here at a later moment ⌛️.`,
+            toelichting: `Your RST-number is used to trace you during the action. In this way arrestee support (RSTS) knows if people are still being detained. RST support is working very hard to get you out and support you!`,
         }
     },
     {
-        id: `a-tas-inpakken`,
+        id: `b-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>. <a href="more/paklijst_nl_en_mei.pdf">Maar hier is een link naar een algemene paklijst.</a> `,
-            toelichting: `Denk in elk geval aan: warme kleren, eten, drinken, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
+            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>.`,
+            toelichting: `Denk in elk geval aan: warme/droge kleren, eten, water, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list will be shared during the general briefing. <a href="more/paklijst_nl_en_mei.pdf">Here is a link to the general packing list</a>`,
-            toelichting: `Make sure you at least have enough warm clothing, food and water to support yourself for the day. Don't take any alcohol, drugs or things that are very precious to you.`,
+            beschrijving: `A packing list will be shared during the general briefing.`,
+            toelichting: `Make sure you at least have enough warm/dry clothing, food, water, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
         }
     },
     {
-        id: `a-plan-treinreis`,
+        id: `b-plan-treinreis`,
         nederlands: {
             titel: `Plan je (TREIN)REIS`,
-            beschrijving: `Neem een trein die op tijd is, wij raden deze twee treinen vanuit Utrecht aan:</br><a href="https://www.ns.nl/reisplanner/#/?vertrek=Utrecht%20Centraal&vertrektype=treinstation&aankomst=Den%20Haag%20Centraal&aankomsttype=treinstation&type=vertrek&tijd=2023-05-27T09%3A58&firstMileModality=PUBLIC_TRANSPORT&lastMileModality=PUBLIC_TRANSPORT&ritnummers=11728">Om 9:58</a></br><a href="https://www.ns.nl/reisplanner/#/?vertrek=Utrecht%20Centraal&vertrektype=treinstation&aankomst=Den%20Haag%20Centraal&aankomsttype=treinstation&type=vertrek&tijd=2023-05-27T10%3A28&firstMileModality=PUBLIC_TRANSPORT&lastMileModality=PUBLIC_TRANSPORT&ritnummers=1730">om 10:28</a></br> Je bent dan ruim op tijd in Den Haag, probeer er een fijne en rustige ochtend van te maken`,
-            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes. Onze verzamellocatie zal gedeeld worden in de vingerbriefing`,
+            beschrijving: `Mogelijk deelt jouw vinger nog een reisadvies.`,
+            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes of alleen.`,
         },
         engels: {
             titel: `Plan your JOURNEY`,
-            beschrijving: `Take a early train, we recommend the train that leaves from Utrecht Centraal at 9:58 or 10:28. That way, you will arrive on time in The Hague`,
-            toelichting: `Some delays might happen with public transport, take those into account! Try to travel in small groups. Our meeting location will be shared in the finger briefing`,
+            beschrijving: `Most fingers will share some travel advice`,
+            toelichting: `Account for delays in public transport. Travel in small groups or alone.`,
         }
     },
     {
-        id: `a-watervaste-stift`,
+        id: `b-watervaste-stift`,
         nederlands: {
             titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. naam van de advocaat.<br/>2. Je RST-nummer.`,
-            toelichting: `De naam van de advocaat wordt later bekendgemaakt.`,
+            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat.<br/>2. Je RST-nummer.`,
+            toelichting: `De naam van de advocaat hoor je van je vinger of zie je op het RST-formulier.`,
         },
         engels: {
             titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer.<br/>2. Your RST-Number`,
-            toelichting: `The name of your laywer will be shared in your finger or on the RST-form`,
-        }
-    },
-    {
-        id: `a-rst-during-action`,
-        nederlands: {
-            titel: `Zo help je RST support tijdens de ACTIE`,
-            beschrijving: `Zorg dat je de instructies hieronder duidelijk hebt!`,
-            toelichting: `
-Stuur de RST-liasion (Ernst) een DM in Signal:</br>
--	Als je niet naar de actie komt: </br><b>RST-nr CLEAR</b></br>
--	Als je de actie verlaat zonder gearresteerd te zijn: </br><b>RST-nr CLEAR</b></br>
--	Als je gearresteerd bent en anoniem gaat: <br><b>RST-nr IN A</b></br>
--	Als je gearresteerd ben zonder anoniem te gaan: </br><b>RST-nr IN</b></br>
-</br>
-Als ik je bericht is gelezen krijg je het bericht OK. `,
-        },
-        engels: {
-            titel: `This is how you will help RST support during the ACTION`,
-            beschrijving: `Make sure you know what to do, follow the instructions below.`,
-            toelichting: `RST procedure during on the day of the action </br>
-Message the RST liason (@Ernst RST ) via a DM in Signal: </br>
--	If you cannot make it to the action for whatever reason: </br><b>RST-nr CLEAR</b></br>
--	If you leave the action without being arrested: </br><b>RST-nr CLEAR</b></br>
--	If you have been arrested and you will stay anonymously: <br><b>RST-nr IN A</b></br>  
--	If you have been arrested and you will identify yourself : </br><b>RST-nr IN</b></br>
-After your DM is read you will get a message: OK. `,
+            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer.<br/>2. Your RST-number.`,
+            toelichting: `The name of your laywer will be shared in your finger or on the RST-form.`,
         }
     },
     {
         id: `a-zen`,
         nederlands: {
             titel: `Je bent er KLAAR voor!`,
-            beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden. Misschien vind je het spannend. Maar het wordt ook heel gaaf.`,
-            toelichting: `Tot snel :). <a href="../res/all_info_utrecht_pinky_27th_of_may.pdf">Een samenvatting van alle belangrijke informatie is hier te vinden</>`,
+            beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden en groeien alleen maar. Misschien vind je het spannend. Maar probeer ook vooral plezier te hebben.`,
+            toelichting: `Tot snel :)`,
         },
         engels: {
             titel: `You are READY to go!`,
-            beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support everyday. Try to also have fun!`,
-            toelichting: `We'll see you soon! <a href="../res/all_info_utrecht_pinky_27th_of_may.pdf">A summary of all important info is here</>`,
+            beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support every day. Maybe you're anxious. But try to have a bit of fun too.`,
+            toelichting: `We'll see you soon! :)`,
         }
     },
-
-    */
 ]
