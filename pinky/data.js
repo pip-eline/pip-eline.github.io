@@ -133,12 +133,12 @@ var data = [
         id: `b-rst-nummer`,
         nederlands: {
             titel: `Trek een RST-NUMMER`,
-            beschrijving: `Trek je RST-nummer. Doe dit altijd, ook als je low-risk gaat. De link waarmee je dat doet, wordt hier later gedeeld ⌛️.`,
+            beschrijving: `Trek je RST-nummer. Doe dit altijd, ook als je low-risk gaat. <b>De link waarmee je dat doet, krijg je van je vingercoordinator, in je vingergroep</b>.`,
             toelichting: `Trek maar 1x een nummer en onthoud deze goed! Dit nummer blijft geldig voor alle dagen van de permanente blokkade!<br/><br/>Het RST-nummer is de anonieme koppeling tussen jou en jouw gegevens. Alleen RST support weet wie er achter elk nummer zit, en zal de informatie na de actie verwijderen.`,
         },
         engels: {
             titel: `Get and RST-NUMBER`,
-            beschrijving: `Draw an RST-number. Do this always, also if you're going low risk. The link with which you do this will be shared here later ⌛️.`,
+            beschrijving: `Draw an RST-number. Do this always, also if you're going low risk. <b>You will receive the link with which you do this from your fingercoordinator in your finger group.</b>`,
             toelichting: `Draw your number only once and remember it well! This number remains valid for all days of the permanent blockade!<br/><br/>The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information after the action.`,
         }
     },
@@ -146,12 +146,12 @@ var data = [
         id: `b-rst-form`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
-            beschrijving: `Het RST formulier wordt later gedeeld ⌛️.`,
+            beschrijving: `Het RST formulier wordt gedeeld door je vingercoordinator, in je vingergroep.`,
             toelichting: `Je RST-nummer zorgt er voor dat arrestee-support (RSTS) jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen.`,
         },
         engels: {
             titel: `Fill in the RST-form!`,
-            beschrijving: `You can find the RST-form here at a later moment ⌛️.`,
+            beschrijving: `The RST-form will be shared by your finger coordinator, in your finger group.`,
             toelichting: `Your RST-number is used to trace you during the action. In this way arrestee support (RSTS) knows if people are still being detained. RST support is working very hard to get you out and support you!`,
         }
     },
