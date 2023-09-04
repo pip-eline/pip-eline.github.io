@@ -146,12 +146,12 @@ var data = [
         id: `b-rst-form`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
-            beschrijving: `Het RST formulier wordt later gedeeld ⌛️.`,
+            beschrijving: `Het RST formulier wordt gedeeld door je vingercoordinator, in je vingergroep.`,
             toelichting: `Je RST-nummer zorgt er voor dat arrestee-support (RSTS) jou kan traceren. Zo weten ze of er nog rebellen vast zitten. Achter de schermen werkt RST-support er hard aan om iedereen weer vrij te krijgen.`,
         },
         engels: {
             titel: `Fill in the RST-form!`,
-            beschrijving: `You can find the RST-form here at a later moment ⌛️.`,
+            beschrijving: `The RST-form will be shared by your finger coordinator, in your finger group.`,
             toelichting: `Your RST-number is used to trace you during the action. In this way arrestee support (RSTS) knows if people are still being detained. RST support is working very hard to get you out and support you!`,
         }
     },
