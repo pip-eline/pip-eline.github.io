@@ -107,12 +107,12 @@ var data = [
         id: `b-algemene-briefing`,
         nederlands: {
             titel: `Volg de ALGEMENE BRIEFING`,
-            beschrijving: `Dit is een online meeting en duurt een uur.<br/><b>Engels: di 5 sept. 20:30.<br/>NL: wo 6 sept. 20:30.</b><br/>Een zoom-link volgt op de dag zelf, via de <em>algemene broadcast</em>.`,
+            beschrijving: `Actiebriefing gemist? <a href="https://briefing.a12blokkade.nl/">briefing.a12blokkade.nl</a>`,
             toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen. Wel kan je deze in je vingergroep vragen.<br/><br/>TOEVOEGING: Voor data ná 9 september zijn er steeds briefings op de avond ervóór.`,
         },
         engels: {
-            titel: `Follow the GENERAL BRIEFINGS`,
-            beschrijving: `This is an online meeting which will take an hour.<br/><b>English: Tue Sept. 5, 20:30.<br/>Dutch: Wed Sept. 6, 20:30.</b><br/>A zoom link will be shared in the <em>general broadcast</em>.`,
+            titel: `Follow the GENERAL BRIEFING`,
+            beschrijving: `Missed the briefing? <a href="https://briefing.a12blokkade.nl/">briefing.a12blokkade.nl</a>`,
             toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.<br/><br/>ADDENDUM: For dates after September 9th, briefings will be held the evening prior.`,
         }
     },
