@@ -143,7 +143,7 @@ var data = [
         }
     },
         {
-        id: `b-rst-form`,
+        id: `b-rst-formulier`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
             beschrijving: `Het RST formulier wordt gedeeld door je vingercoordinator, in je vingergroep.`,
