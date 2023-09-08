@@ -142,7 +142,7 @@ var data = [
             toelichting: `Draw your number only once and remember it well! This number remains valid for all days of the permanent blockade!<br/><br/>The RST number is used to connect you anonymously to who you are. Only RST support knows who is associated with what number, and will delete this information after the action.`,
         }
     },
-        {
+    {
         id: `b-rst-form`,
         nederlands: {
             titel: `Vul het RST formulier in!`,
@@ -153,6 +153,19 @@ var data = [
             titel: `Fill in the RST-form!`,
             beschrijving: `The RST-form will be shared by your finger coordinator, in your finger group.`,
             toelichting: `Your RST-number is used to trace you during the action. In this way arrestee support (RSTS) knows if people are still being detained. RST support is working very hard to get you out and support you!`,
+        }
+    },
+    {
+        id: `b-pinky-rood-blauw`,
+        nederlands: {
+            titel: `Team ROOD of BLAUW?`,
+            beschrijving: `Het lopen doen we in twee groepen: groep rood en groep blauw. Kies samen met je buddy:<br/><br/>💙 Er komt een journalist mee. Wil je liever NIET met de journalist meelopen, kies dan voor team blauw.<br/><br/>❤️ Heb je een fysieke beperking en/of loop je liever iets korter? Kies dan voor team rood.<br/><br/>Als het je niet uitmaakt, gebruik dan <a href="https://sometimesredsometimesblue.com/>deze site</a> om jouw kleur te bepalen. Die verdeelt rood en blauw ongeveer 50/50.`,
+            toelichting: ``,
+        },
+        engels: {
+            titel: `TODO`,
+            beschrijving: `TODO`,
+            toelichting: `TODO`,
         }
     },
     {
