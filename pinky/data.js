@@ -159,13 +159,26 @@ var data = [
         id: `b-pinky-rood-blauw`,
         nederlands: {
             titel: `Team ROOD of BLAUW?`,
-            beschrijving: `Het lopen doen we in twee groepen: groep rood en groep blauw. Kies samen met je buddy:<br/><br/>💙 Er komt een journalist mee. Wil je liever NIET met de journalist meelopen, kies dan voor team blauw.<br/><br/>❤️ Heb je een fysieke beperking en/of loop je liever iets korter? Kies dan voor team rood.<br/><br/>Als het je niet uitmaakt, gebruik dan <a href="https://sometimesredsometimesblue.com/>deze site</a> om jouw kleur te bepalen. Die verdeelt rood en blauw ongeveer 50/50.`,
-            toelichting: ``,
+            beschrijving: `Het lopen doen we in twee groepen: groep Rood en groep Blauw. Kies samen met je buddy:<br/><br/>💙 Er komt een journalist mee. Wil je liever NIET met de journalist meelopen, kies dan voor team Blauw.<br/><br/>❤️ Heb je een fysieke beperking en/of loop je liever iets korter? Kies dan voor team Rood.<br/><br/>Als het je niet uitmaakt, gebruik dan <a href="https://sometimesredsometimesblue.com/">deze site</a> om jouw kleur te bepalen. Die verdeelt Rood en Blauw gelijk.`,
+            toelichting: `De groepen hebben een andere start/verzamellokatie, maar komen tijdens het lopen weer bij elkaar.`,
         },
         engels: {
-            titel: `TODO`,
-            beschrijving: `TODO`,
-            toelichting: `TODO`,
+            titel: `Team RED or BLUE?`,
+            beschrijving: `We'll walk in two groups: group Red and group Blue. Choose together with your buddy:<br/><br/>💙 A journalist will join us. If you prefer NOT to walk with the journalist, join team Blue.<br/><br/>❤️ Do you have a physical handicap and/or prefer to walk a shorter distance? Choose team Red.<br/><br/>If you have no preference, use <a href="https://sometimesredsometimesblue.com/">this site</a> to determine your color. It will distribute Reds and Blues evenly.`,
+            toelichting: `De groepen hebben een andere start/verzamellokatie, maar komen tijdens het lopen weer bij elkaar.`,
+        }
+    },
+    {
+        id: `b-plan-reis-naar-verzamellokatie`,
+        nederlands: {
+            titel: `Plan je REIS`,
+            beschrijving: `Team Blauw 💙 verzamelt om 11:00 in de buurt van NASSAUPLEIN. Team Rood ❤️ verzamelt om 11:15 in de buurt van FREDERIKSTRAAT. De exacte lokatie, en een kaartje, wordt om 18:00 in de Pinky signal-app gedeeld.`,
+            toelichting: `Houd rekening met eventuele vertragingen. Kom ruim op tijd, je kan altijd nog ergens een koffie drinken als je te vroeg bent. Reis in kleine groepjes of alleen.`,
+        },
+        engels: {
+            titel: `Plan your JOURNEY`,
+            beschrijving: `Team Blue 💙 gathers 11:00 near NASSAUPLEIN. Team Rood ❤️ gathers 11:15 near FREDERIKSTRAAT. The exact locations, and a map, will be shared in the Pinky signal app at 18:00`,
+            toelichting: `Account for delays in public transport. Be sure to be on time. You can always drink a coffee somewhere if you arrive too early. Travel in small groups or alone.`,
         }
     },
     {
@@ -179,19 +192,6 @@ var data = [
             titel: `Pack your BAG!`,
             beschrijving: `A packing list is available <a href="https://cloud.extinctionrebellion.nl/index.php/s/iLB8YA5icBmwNag">here</a>.`,
             toelichting: `Make sure you at least have enough warm/dry clothing, food, WATER, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
-        }
-    },
-    {
-        id: `b-plan-treinreis`,
-        nederlands: {
-            titel: `Plan je (TREIN)REIS`,
-            beschrijving: `Mogelijk deelt jouw vinger nog een reisadvies.`,
-            toelichting: `Houd rekening met eventuele vertragingen. Reis in kleine groepjes of alleen.`,
-        },
-        engels: {
-            titel: `Plan your JOURNEY`,
-            beschrijving: `Most fingers will share some travel advice`,
-            toelichting: `Account for delays in public transport. Travel in small groups or alone.`,
         }
     },
     {
