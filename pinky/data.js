@@ -2,12 +2,12 @@ var data = [
     {
         id: `b-algemene-broadcast`,
         nederlands: {
-            titel: `Ga in de ALGEMENE BROADCAST`,
+            titel: `Ga in de ALGEMENE BROADCAST. <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Hier is een samenvatting van alles wat je moet weten.</a>`,
             beschrijving: `Dat is <a href="https://t.me/A12StopSub">dit telegramkanaal</a> met de titel "A12 StopSub".`,
             toelichting: `Voor veel acties, en ook voor deze <span class="a-12">A12-actie</span>, is er een grote <em>signal of telegram-groep</em> waar belangrijke mededelingen worden gepost.`,
         },
         engels: {
-            titel: `Join the GENERAL BROADCAST`,
+            titel: `Join the GENERAL BROADCAST. <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Here is a summary of everything you should know.</a>`,
             beschrijving: `It's <a href="https://t.me/A12StopSub">this telegram group</a> with the title "A12 StopSub".`,
             toelichting: `For most actions, including the <em>A12 actions</em>, there is a big broadcast channel where important announcement are made.`,
         }
