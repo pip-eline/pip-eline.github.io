@@ -210,12 +210,12 @@ var data = [
     {
         id: `a-zen`,
         nederlands: {
-            titel: `Je bent er KLAAR voor!`,
+            titel: `Je bent er KLAAR voor! <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Hier is een samenvatting van alles wat je moet weten.</a>`,
             beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden en groeien alleen maar. Misschien vind je het spannend. Maar probeer ook vooral plezier te hebben.`,
             toelichting: `Tot snel :)`,
         },
         engels: {
-            titel: `You are READY to go!`,
+            titel: `You are READY to go! <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Here is a summary of everything you should know.</a>`,
             beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support every day. Maybe you're anxious. But try to have a bit of fun too.`,
             toelichting: `We'll see you soon! :)`,
         }
