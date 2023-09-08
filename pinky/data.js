@@ -68,12 +68,12 @@ var data = [
         id: `b-legal-handout`,
         nederlands: {
             titel: `Lees de LEGAL HANDHOUT`,
-            beschrijving: `De legal handout <!--a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">staat hier</a--> wordt hier later nog gedeeld ⌛️.`,
+            beschrijving: `De legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM/download/A12-Juridische%20Informatie-FINAL-UPDATEv2.pdf">staat hier</a>`,
             toelichting: `Hierin staan antwoorden op vragen zoals: Wat zijn de legale consequenties? Wanneer bel ik een advocaat? Betekent dit iets voor mijn strafblad?`,
         },
         engels: {
             titel: `Read the LEGAL HANDOUT`,
-            beschrijving: `The legal handout <!--a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM">can be read here</a--> will be available here later ⌛️.`,
+            beschrijving: `The legal handout <a href="https://cloud.extinctionrebellion.nl/index.php/s/H5BJkpPJTwkEgkM/download/A12-Juridische%20Informatie-FINAL-UPDATEv2.pdf">can be read here</a-->.`,
             toelichting: `This handout answers questions like: What are the legal consequenses? When do I call a laywer?`,
         }
     },
@@ -172,13 +172,13 @@ var data = [
         id: `b-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst wordt gedeeld tijdens de <em>algemene briefing</em>.`,
-            toelichting: `Denk in elk geval aan: warme/droge kleren, eten, water, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
+            beschrijving: `Een paklijst is <a href="https://cloud.extinctionrebellion.nl/index.php/s/iLB8YA5icBmwNag">hier beschikbaar</a>.`,
+            toelichting: `Denk in elk geval aan: warme/droge kleren, eten, WATER, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list will be shared during the general briefing.`,
-            toelichting: `Make sure you at least have enough warm/dry clothing, food, water, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
+            beschrijving: `A packing list is available <a href="https://cloud.extinctionrebellion.nl/index.php/s/iLB8YA5icBmwNag">here</a>.`,
+            toelichting: `Make sure you at least have enough warm/dry clothing, food, WATER, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
         }
     },
     {
