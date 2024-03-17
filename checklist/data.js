@@ -16,12 +16,12 @@ var data = [
         id: `b-aanmeldformulier`,
         nederlands: {
             titel: `Vul het AANMELDFORMULIER in`,
-            beschrijving: `Het <a target="_blank" href="https://cryptpad.organise.earth/form/#/2/form/view/kiwdJkgUteALUT9fIuV8uBQS30WIj0URHFbMxFyrOq4/">aanmeldformulier</a> zorgt er voor dat je in de juiste groep wordt ingedeeld, voor verdere communicatie.`,
+            beschrijving: `Het <a target="_blank" href="http://a12blokkade.nl/aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groep wordt ingedeeld, voor verdere communicatie.`,
             toelichting: `In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
         },
         engels: {
             titel: `Fill in the REGISTRATION FORM`,
-            beschrijving: `The <a target="_blank" href="https://cryptpad.organise.earth/form/#/2/form/view/kiwdJkgUteALUT9fIuV8uBQS30WIj0URHFbMxFyrOq4/">registration form</a> makes sure you are assigned to the right group, for further communication.`,
+            beschrijving: `The <a target="_blank" href="http://a12blokkade.nl/aanmelden">registration form</a> makes sure you are assigned to the right group, for further communication.`,
             toelichting: `In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
