@@ -16,13 +16,13 @@ var data = [
         id: `b-aanmeldformulier`,
         nederlands: {
             titel: `Vul het AANMELDFORMULIER in`,
-            beschrijving: `Het <a href="https://a12blokkade.nl/aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groepen wordt ingedeeld, zowel voor de datum van 9 september als de dagen daarna.`,
-            toelichting: `Je kan het formulier later nog aanpassen als je op meer/andere dagen komt. In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
+            beschrijving: `Hier is het <a href="https://a12blokkade.nl/aanmelden">aanmeldformulier</a> `,
+            toelichting: `In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
         },
         engels: {
             titel: `Fill in the REGISTRATION FORM`,
-            beschrijving: `The <a href="https://a12blokkade.nl/aanmelden">registration form</a> makes sure you are assigned to the right groups, both for the 9th of September, as well as after.`,
-            toelichting: `You can edit your form at a later for different/additional dates. In the form you can also indicate preferences for specific roles, like wellbeing.`,
+            beschrijving: `Here is the <a href="https://a12blokkade.nl/aanmelden">registration form</a>.`,
+            toelichting: `In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
         {
@@ -107,25 +107,25 @@ var data = [
         id: `b-algemene-briefing`,
         nederlands: {
             titel: `Volg de ALGEMENE BRIEFING`,
-            beschrijving: `Actiebriefing gemist? <a href="https://briefing.a12blokkade.nl/">briefing.a12blokkade.nl</a>`,
-            toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een zoom-meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen. Wel kan je deze in je vingergroep vragen.<br/><br/>TOEVOEGING: Voor data ná 9 september zijn er steeds briefings op de avond ervóór.`,
+            beschrijving: `De link naar de algemene actiebriefing wordt in je vinger gedeeld.`,
+            toelichting: `De algemene briefing geeft een laatste update en herhaalt de belangrijkste punten. Het is een online meeting met honderden deelnemers, dus er is niet veel ruimte voor vragen. Wel kan je deze in je vingergroep vragen.<br/>`,
         },
         engels: {
-            titel: `Follow the GENERAL BRIEFING`,
-            beschrijving: `Missed the briefing? <a href="https://briefing.a12blokkade.nl/">briefing.a12blokkade.nl</a>`,
-            toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge zoom meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.<br/><br/>ADDENDUM: For dates after September 9th, briefings will be held the evening prior.`,
+            titel: `Follow the GENERAL BRIEFINGS`,
+            beschrijving: `The link to the general action briefing will be shared in your finger.`,
+            toelichting: `The general briefing provides the most recent updates and repeats the most import points. It's huge online meeting, so there's not a lot of time for questions. If you have remaining questions, you can always ask them in your finger group.<br/>`,
         }
     },
     {
         id: `b-vingerbriefing`,
         nederlands: {
             titel: `Volg de VINGERBRIEFING`,
-            beschrijving: `De vingerbriefing vind plaats op Donderdag 7 september om 20:30. Mocht je niet op deze datum kunnen, stuur dan een bericht naar Tim of Barend en dan regelen we een extra sessie.`,
+            beschrijving: `De vingerbriefing tijd wordt aangekondigd in de vinger signal groep, de link zal daar ook neergezet worden.`,
             toelichting: `Hier hoor je belangrijke informatie zoals de verzamellocatie en aanlooproute voor jouw vinger. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
         },
         engels: {
             titel: `Join the FINGER BRIEFING`,
-            beschrijving: `There will be a briefing on Thursday September the 7th, at 20:30. If you're unable to attend, let Barend or Tim know, and we'll plan something else.`,
+            beschrijving: `The fingerbriefing time and location will be disclosed in the signal group.`,
             toelichting: `This is where you will hear important information such as the meeting point and route of approach. In addition, you can ask questions and there will still be time to make buddies.`,
         }
     },
@@ -185,12 +185,12 @@ var data = [
         id: `b-watervaste-stift`,
         nederlands: {
             titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Willem Jebbink.<br/>2. Je RST-nummer.`,
+            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat.<br/>2. Je RST-nummer.`,
             toelichting: `De naam van de advocaat is Willem Jebbink. Een telefoonnummer is niet nodig.`,
         },
         engels: {
             titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Willem Jebbink.<br/>2. Your RST-number.`,
+            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer.<br/>2. Your RST-number.`,
             toelichting: `The name of your laywer is Willem Jebbink. A phone number is not needed.`,
         }
     },
