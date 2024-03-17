@@ -2,12 +2,12 @@ var data = [
     {
         id: `b-algemene-broadcast`,
         nederlands: {
-            titel: `<a target="_blank" href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Hier is een samenvatting van alles wat je moet weten.</a> <br><br>Ga in de ALGEMENE BROADCAST.`,
+            titel: `Ga in de ALGEMENE BROADCAST.`,
             beschrijving: `Dat is <a href="https://t.me/A12StopSub">dit telegramkanaal</a> met de titel "A12 StopSub".`,
             toelichting: `Voor veel acties, en ook voor deze <span class="a-12">A12-actie</span>, is er een grote <em>signal of telegram-groep</em> waar belangrijke mededelingen worden gepost.`,
         },
         engels: {
-            titel: `<a target="_blank" href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Here is a summary of everything you should know.</a> <br><br>Join the GENERAL BROADCAST.`,
+            titel: `Join the GENERAL BROADCAST.`,
             beschrijving: `It's <a href="https://t.me/A12StopSub">this telegram group</a> with the title "A12 StopSub".`,
             toelichting: `For most actions, including the <em>A12 actions</em>, there is a big broadcast channel where important announcement are made.`,
         }
@@ -16,12 +16,12 @@ var data = [
         id: `b-aanmeldformulier`,
         nederlands: {
             titel: `Vul het AANMELDFORMULIER in`,
-            beschrijving: `Het <a href="https://extinctionrebellion.nl/a12aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groepen wordt ingedeeld, zowel voor de datum van 9 september als de dagen daarna.`,
+            beschrijving: `Het <a href="https://a12blokkade.nl/aanmelden">aanmeldformulier</a> zorgt er voor dat je in de juiste groepen wordt ingedeeld, zowel voor de datum van 9 september als de dagen daarna.`,
             toelichting: `Je kan het formulier later nog aanpassen als je op meer/andere dagen komt. In het formulier kan je ook aangeven of je bepaalde rollen wil vervullen, zoals wellbeing.`,
         },
         engels: {
             titel: `Fill in the REGISTRATION FORM`,
-            beschrijving: `The <a href="https://extinctionrebellion.nl/a12aanmelden">registration form</a> makes sure you are assigned to the right groups, both for the 9th of September, as well as after.`,
+            beschrijving: `The <a href="https://a12blokkade.nl/aanmelden">registration form</a> makes sure you are assigned to the right groups, both for the 9th of September, as well as after.`,
             toelichting: `You can edit your form at a later for different/additional dates. In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
@@ -155,32 +155,19 @@ var data = [
             toelichting: `Your RST-number is used to trace you during the action. In this way arrestee support (RSTS) knows if people are still being detained. RST support is working very hard to get you out and support you!`,
         }
     },
-    {
-        id: `b-pinky-rood-blauw`,
-        nederlands: {
-            titel: `Team ROOD of BLAUW?`,
-            beschrijving: `Het lopen doen we in twee groepen: groep Rood en groep Blauw. Kies samen met je buddy:<br/><br/>💙 Er komt een journalist mee. Wil je liever NIET met de journalist meelopen, kies dan voor team Blauw.<br/><br/>❤️ Heb je een fysieke beperking en/of loop je liever iets korter? Kies dan voor team Rood.<br/><br/>Als het je niet uitmaakt, gebruik dan <a href="https://sometimesredsometimesblue.com/">deze site</a> om jouw kleur te bepalen. Die verdeelt Rood en Blauw gelijk.`,
-            toelichting: `De groepen hebben een andere start/verzamellokatie, maar komen tijdens het lopen weer bij elkaar.`,
-        },
-        engels: {
-            titel: `Team RED or BLUE?`,
-            beschrijving: `We'll walk in two groups: group Red and group Blue. Choose together with your buddy:<br/><br/>💙 A journalist will join us. If you prefer NOT to walk with the journalist, join team Blue.<br/><br/>❤️ Do you have a physical handicap and/or prefer to walk a shorter distance? Choose team Red.<br/><br/>If you have no preference, use <a href="https://sometimesredsometimesblue.com/">this site</a> to determine your color. It will distribute Reds and Blues evenly.`,
-            toelichting: `De groepen hebben een andere start/verzamellokatie, maar komen tijdens het lopen weer bij elkaar.`,
-        }
-    },
-    {
-        id: `b-plan-reis-naar-verzamellokatie`,
-        nederlands: {
-            titel: `Plan je REIS`,
-            beschrijving: `Team Blauw 💙 verzamelt om 11:00 in de buurt van NASSAUPLEIN. Team Rood ❤️ verzamelt om 11:15 in de buurt van FREDERIKSTRAAT. De exacte lokatie, en een kaartje, wordt om 18:00 in de Pinky signal-app gedeeld.`,
-            toelichting: `Houd rekening met eventuele vertragingen. Kom ruim op tijd, je kan altijd nog ergens een koffie drinken als je te vroeg bent. Reis in kleine groepjes of alleen.`,
-        },
-        engels: {
-            titel: `Plan your JOURNEY`,
-            beschrijving: `Team Blue 💙 gathers 11:00 near NASSAUPLEIN. Team Rood ❤️ gathers 11:15 near FREDERIKSTRAAT. The exact locations, and a map, will be shared in the Pinky signal app at 18:00`,
-            toelichting: `Account for delays in public transport. Be sure to be on time. You can always drink a coffee somewhere if you arrive too early. Travel in small groups or alone.`,
-        }
-    },
+    // {
+    //     id: `b-plan-reis-naar-verzamellokatie`,
+    //     nederlands: {
+    //         titel: `Plan je REIS`,
+    //         beschrijving: `Team Blauw 💙 verzamelt om 11:00 in de buurt van NASSAUPLEIN. Team Rood ❤️ verzamelt om 11:15 in de buurt van FREDERIKSTRAAT. De exacte lokatie, en een kaartje, wordt om 18:00 in de Pinky signal-app gedeeld.`,
+    //         toelichting: `Houd rekening met eventuele vertragingen. Kom ruim op tijd, je kan altijd nog ergens een koffie drinken als je te vroeg bent. Reis in kleine groepjes of alleen.`,
+    //     },
+    //     engels: {
+    //         titel: `Plan your JOURNEY`,
+    //         beschrijving: `Team Blue 💙 gathers 11:00 near NASSAUPLEIN. Team Rood ❤️ gathers 11:15 near FREDERIKSTRAAT. The exact locations, and a map, will be shared in the Pinky signal app at 18:00`,
+    //         toelichting: `Account for delays in public transport. Be sure to be on time. You can always drink a coffee somewhere if you arrive too early. Travel in small groups or alone.`,
+    //     }
+    // },
     {
         id: `b-tas-inpakken`,
         nederlands: {
@@ -210,12 +197,12 @@ var data = [
     {
         id: `a-zen`,
         nederlands: {
-            titel: `Je bent er KLAAR voor! <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Hier is een samenvatting van alles wat je moet weten.</a>`,
+            titel: `Je bent er KLAAR voor!`, //<a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Hier is een samenvatting van alles wat je moet weten.</a>
             beschrijving: `Neem nog wat rust. Bedenk waarom je het ook alweer doet. We hebben een goed verhaal, we zijn met z'n duizenden en groeien alleen maar. Misschien vind je het spannend. Maar probeer ook vooral plezier te hebben.`,
             toelichting: `Tot snel :)`,
         },
         engels: {
-            titel: `You are READY to go! <a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Here is a summary of everything you should know.</a>`,
+            titel: `You are READY to go!`, //<a href="https://prep.a12blokkade.nl/res/Utrecht%20Pinky%20-%209%20September.pdf">Here is a summary of everything you should know.</a>
             beschrijving: `Take a deep breath, remember why you are doing this. We're doing this for an important cause, and we're getting more support every day. Maybe you're anxious. But try to have a bit of fun too.`,
             toelichting: `We'll see you soon! :)`,
         }
