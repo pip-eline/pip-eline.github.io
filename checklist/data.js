@@ -159,12 +159,12 @@ var data = [
         id: `b-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/wCBUmSULK2yaPPCaUOfQ4gPq/">hier beschikbaar</a>.`,
+            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/LexcXrsCh0O23XLCBgux293L/">hier beschikbaar</a>.`,
             toelichting: `Denk in elk geval aan: warme/droge kleren, eten, WATER, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list is available <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/wCBUmSULK2yaPPCaUOfQ4gPq/">here</a>.`,
+            beschrijving: `A packing list is available <a target="_blank" href="hhttps://cryptpad.organise.earth/file/#/2/file/LexcXrsCh0O23XLCBgux293L/">here</a>.`,
             toelichting: `Make sure you at least have enough warm/dry clothing, food, WATER, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
         }
     },
@@ -185,12 +185,12 @@ var data = [
         id: `b-watervaste-stift`,
         nederlands: {
             titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat.<br/>2. Je RST-nummer.`,
+            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Ineke van den Brûle.<br/>2. Je RST-nummer.`,
             toelichting: `De naam van de advocaat wordt bekend gemaakt in de vinger briefing. Een telefoonnummer is niet nodig.`,
         },
         engels: {
             titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer.<br/>2. Your RST-number.`,
+            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Ineke van den Brûle.<br/>2. Your RST-number.`,
             toelichting: `The name of your laywer will be announced in the finger briefing. A phone number is not needed.`,
         }
     },
