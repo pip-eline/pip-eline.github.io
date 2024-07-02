@@ -30,24 +30,24 @@ var data = [
         nederlands: {
             titel: `Volg een ACTIETRAINING`,
             beschrijving: `<a target="_blank" href="https://extinctionrebellion.nl/events/?organizer&category=Actietraining">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
-            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel nog meedoen aan de <a target="_blank" href="https://t.me/A12supporters">support demo</a>.`,
+            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel supporten of naar het <a target="_blank" href="https://decrisisisnu.nl">Protestival</a>.`,
         },
         engels: {
             titel: `Do an ACTION TRAINING`,
             beschrijving: `<a target="_blank" href="https://extinctionrebellion.nl/en/events/?category=Actietraining&organizer">Here is an overview</a> of all the trainings being organised.`,
-            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still join the <a target="_blank" href="https://t.me/A12supporters">support demo</a>.`,
+            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still support or join the <a target="_blank" href="https://decrisisisnu.nl">Protestival</a>.`,
         }
     },
     {
         id: `b-vingergroep`,
         nederlands: {
             titel: `Ga in de VINGERGROEP`,
-            beschrijving: `Nadat je het formulier hebt ingevuld, wordt je ingedeeld bij een telegram- of signalgroep voor jouw vinger.`,
+            beschrijving: `Nadat je het formulier hebt ingevuld, wordt je ingedeeld bij een Signalgroep voor jouw vinger.`,
             toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.`,
         },
         engels: {
             titel: `Join the FINGER GROUP`,
-            beschrijving: `After you have filled out the form, you will be invited to a telegram or signal group for your specific finger.`,
+            beschrijving: `After you have filled out the form, you will be invited to a Signal group for your specific finger.`,
             toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.`,
         }
     },
@@ -119,14 +119,14 @@ var data = [
     {
         id: `b-vingerbriefing`,
         nederlands: {
-            titel: `Volg de VINGERBRIEFING`,
-            beschrijving: `Je vinger organiseert waarschijnlijk ook nog een eigen vingerbriefing. Houd de groep in de gaten en doe hieraan mee!`,
-            toelichting: `Hier hoor je belangrijke informatie zoals de verzamellocatie en aanlooproute voor jouw vinger. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
+            titel: `Lees je VINGERCHAT`,
+            beschrijving: `Hierin krijg je belangrijke informatie, en wellicht wordt ook nog een vingerbriefing gehouden. Houd de groep in de gaten en doe hieraan mee!`,
+            toelichting: `Denk aan informatie zoals de verzamellocatie en -tijd voor jouw vinger. Bovendien is er tijd voor vragen, en kunnen er nog buddies gemaakt worden.`,
         },
         engels: {
-            titel: `Join the FINGER BRIEFING`,
-            beschrijving: `Your finger will probably organise a separate finger briefing. Keep an eye out for this and be sure to participate.`,
-            toelichting: `This is where you will hear important information such as the meeting point and route of approach. In addition, you can ask questions and there will still be time to make buddies.`,
+            titel: `Monitor your FINGER CHAT`,
+            beschrijving: `This contains important information, maybe a finger briefing is organized separately. Keep an eye out for this and be sure to participate.`,
+            toelichting: `Think of the meeting point and time. In addition, you can ask questions and there will still be time to make buddies.`,
         }
     },
     {
@@ -185,13 +185,13 @@ var data = [
         id: `b-watervaste-stift`,
         nederlands: {
             titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Ineke van den Brûle.<br/>2. Je RST-nummer.`,
-            toelichting: `De naam van de advocaat wordt bekend gemaakt in de vinger briefing. Een telefoonnummer is niet nodig.`,
+            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Willem Jebbink.<br/>2. Je RST-nummer.`,
+            toelichting: `De naam van de advocaat is voldoende. Een telefoonnummer is niet nodig.`,
         },
         engels: {
             titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Ineke van den Brûle.<br/>2. Your RST-number.`,
-            toelichting: `The name of your laywer will be announced in the finger briefing. A phone number is not needed.`,
+            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Willem Jebbink.<br/>2. Your RST-number.`,
+            toelichting: `The name of your laywer is enough. A phone number is not needed.`,
         }
     },
     {
