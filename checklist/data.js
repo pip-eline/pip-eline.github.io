@@ -12,7 +12,7 @@ var data = [
             toelichting: `For most actions, including the <em>A12 actions</em>, there is a big broadcast channel where important announcement are made.`,
         }
     },
-    {
+/*    {
         id: `b-aanmeldformulier`,
         nederlands: {
             titel: `Vul het AANMELDFORMULIER in`,
@@ -25,7 +25,7 @@ var data = [
             toelichting: `In the form you can also indicate preferences for specific roles, like wellbeing.`,
         }
     },
-        {
+*/    {
         id: `b-actietraining`,
         nederlands: {
             titel: `Volg een ACTIETRAINING`,
