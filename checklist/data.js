@@ -42,12 +42,12 @@ var data = [
         id: `b-vingergroep`,
         nederlands: {
             titel: `Ga in de VINGERGROEP`,
-            beschrijving: `Nadat je het formulier hebt ingevuld, wordt je ingedeeld bij een Signalgroep voor jouw vinger.`,
+            beschrijving: `Nadat je je hebt aangemeld, wordt je ingedeeld bij een Signalgroep voor jouw vinger.`,
             toelichting: `Bij grote acties wordt er soms gewerkt met 'vingers': dat zijn groepen die samen voorbereiden en naar de actielocatie lopen. Dit vergroot de veiligheid en de kans dat zo veel mogelijk rebellen op de actie aankomen.`,
         },
         engels: {
             titel: `Join the FINGER GROUP`,
-            beschrijving: `After you have filled out the form, you will be invited to a Signal group for your specific finger.`,
+            beschrijving: `After you have signed up, you will be invited to a Signal group for your specific finger.`,
             toelichting: `Larger actions sometimes use 'fingers'. These are groups that prepare for the action together and move towards the place of action together. This increases security and our chances of succes.`,
         }
     },
@@ -146,12 +146,12 @@ var data = [
         id: `b-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/vLxpAHu5QN-Y-Ut3ORB-8Be4/">hier beschikbaar</a>.`,
+            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/6Yutu-qNu2CuKV5YwZC9d84x/">hier beschikbaar</a>.`,
             toelichting: `Denk in elk geval aan: warme/droge kleren, eten, WATER, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list is available <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/vLxpAHu5QN-Y-Ut3ORB-8Be4/">here</a>.`,
+            beschrijving: `A packing list is available <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/6Yutu-qNu2CuKV5YwZC9d84x/">here</a>.`,
             toelichting: `Make sure you at least have enough warm/dry clothing, food, WATER, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
         }
     },
