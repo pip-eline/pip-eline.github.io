@@ -146,12 +146,12 @@ var data = [
         id: `b-tas-inpakken`,
         nederlands: {
             titel: `Pak je TAS in`,
-            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/6Yutu-qNu2CuKV5YwZC9d84x/">hier beschikbaar</a>.`,
+            beschrijving: `Een paklijst is <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/4N1RcgdQXGnefhrw67sAB7-P/">hier beschikbaar</a>.`,
             toelichting: `Denk in elk geval aan: warme/droge kleren, eten, WATER, geld, ID-kaart*, OV-kaart*. Géén dierbare bezittingen. Géén wapens, géén drugs.<br/>* niet als je anoniem gaat`,
         },
         engels: {
             titel: `Pack your BAG!`,
-            beschrijving: `A packing list is available <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/6Yutu-qNu2CuKV5YwZC9d84x/">here</a>.`,
+            beschrijving: `A packing list is available <a target="_blank" href="https://cryptpad.organise.earth/file/#/2/file/VHqttGnvMckkkZJx1qNArVOd/">here</a>.`,
             toelichting: `Make sure you at least have enough warm/dry clothing, food, WATER, ID-card*, OV-card*. Don't bring precious things. No alcohol, no drugs.<br/>* not when going anonymously`,
         }
     },
