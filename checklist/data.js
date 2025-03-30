@@ -30,12 +30,12 @@ var data = [
         nederlands: {
             titel: `Volg een ACTIETRAINING`,
             beschrijving: `<a target="_blank" href="https://extinctionrebellion.nl/events/?paged=&category_slugs%5B%5D=actietraining#event-search-result">Hier staat een overzicht</a> van alle actietrainingen die nog gegeven worden.`,
-            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel supporten of naar het <a target="_blank" href="https://decrisisisnu.nl">Protestival</a>.`,
+            toelichting: `Dit heet ook wel een <em>"non violent direct action training"</em>. Als je dat al eerder hebt gedaan, hoeft dat niet nogmaals. Maar als je nieuw bent, is een actietraining heel belangrijk: doe niet mee zonder actietraining! Je kan dan wel supporten!`,
         },
         engels: {
             titel: `Do an ACTION TRAINING`,
             beschrijving: `<a target="_blank" href="https://extinctionrebellion.nl/en/events/?paged=&category_slugs%5B%5D=action-training#event-search-result">Here is an overview</a> of all the trainings being organised.`,
-            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still support or join the <a target="_blank" href="https://decrisisisnu.nl">Protestival</a>.`,
+            toelichting: `This is also called a <em>"non violent direct action training"</em>. If you've done one before, you don't need to do it again. However, if this is your first action, this training is very important: you shouldn't go without one! Without a training you can still support!`,
         }
     },
     {
