@@ -172,12 +172,12 @@ var data = [
         id: `b-watervaste-stift`,
         nederlands: {
             titel: `Schrijf dit op je LICHAAM`,
-            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Willem Jebbink.<br/>2. Je RST-nummer.`,
+            beschrijving: `Schrijf met <em>watervaste stift</em> twee dingen duidelijk op je lichaam:<br/>1. Naam van de advocaat: Willem Jan Kramer.<br/>2. Je RST-nummer.`,
             toelichting: `De naam van de advocaat is voldoende. Een telefoonnummer is niet nodig.`,
         },
         engels: {
             titel: `Write this on your BODY`,
-            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Willem Jebbink.<br/>2. Your RST-number.`,
+            beschrijving: `Use a permanent marker to write these two things on your body:<br/>1. Name of your lawyer: Willem Jan Kramer.<br/>2. Your RST-number.`,
             toelichting: `The name of your laywer is enough. A phone number is not needed.`,
         }
     },
